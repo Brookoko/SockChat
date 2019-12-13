@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+}
+
+.chat {
+    padding-left: 10%;
+    padding-top: 45px;
+    width: 90%;
+    overflow: auto;
+    width: 90%;
+    padding-bottom: 100px;
+}  
+
+.chat::-webkit-scrollbar {
+    display: none;
+}

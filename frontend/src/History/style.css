@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.history {
+    padding-left: 10%;
+    padding-top: 45px;
+    width: 90%;
+    overflow: auto;
+}
+
+.history::-webkit-scrollbar {
+    display: none;
+}
